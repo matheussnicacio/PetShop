@@ -1,0 +1,18 @@
+.bg-primary {
+
+    color: blue color #0000ff
+}
+
+.full-width-image {
+    width: 100%;
+    height: auto;
+}
+
+.custom-navbar {
+    width: 100%;
+    height: 100px;
+}
+.card:hover {
+transform: scale(1.05); 
+transition: transform 0.3s ease; 
+}
